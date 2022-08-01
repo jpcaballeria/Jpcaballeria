@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcaballeria)](https://github.com/jpcaballeria)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcaballeria&show_icons=true&theme=dark)
 
   ##
   
@@ -17,4 +17,4 @@
 ![Snake animation](https://github.com/jpcaballeria/jpcaballeria/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
